@@ -1,0 +1,21 @@
+This study investigates the relationship between Bitcoin market sentiment (Fear vs Greed) and trader performance using historical trading data.
+After cleaning and merging datasets at daily resolution, several key performance metrics were engineered including daily PnL, win rate, trade frequency, average position size, and directional bias.
+
+The results indicate that market sentiment significantly influences trader behavior and profitability.
+
+Performance Analysis:
+1.Average PnL is higher during Greed days.
+2.Loss magnitude increases during Fear periods.
+3.Win rates are moderately higher in positive sentiment regimes.
+
+Behavioral Analysis:
+1.Traders increase trade frequency during Fear periods.
+2.Position sizes are larger during Greed sentiment.
+3.Long bias strengthens during Greed days.
+
+Segment Analysis:
+1.High-size traders experience larger drawdowns during Fear.
+2.Frequent traders underperform during volatile periods.
+3.Consistent winners maintain stability across regimes.
+
+Based on these findings, regime-based trading adjustments can improve risk-adjusted returns.
